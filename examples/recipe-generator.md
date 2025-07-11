@@ -49,7 +49,7 @@ Where `id` and `name` are invariants.
 ```
 {
   "id" : "yCU8GgJ5LoW4JMzyFbw7v",
-  "food_name" : "pizza",
+  "name" : "pizza",
   "ingredients" : [ {
     "name" : "all-purpose flour",
     "unit" : "cups",
