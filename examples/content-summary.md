@@ -24,18 +24,9 @@ ${content}
   "name": "Summary",
   "namespace": "com.example",
   "fields": [
-    {
-      "name": "id",
-      "type": "string"
-    }
-    {
-      "name": "language",
-      "type": "string"
-    }
-    {
-      "name": "summary",
-      "type": "string"
-    }
+    { "name": "id", "type": "string" },
+    { "name": "language", "type": "string" },
+    { "name": "summary", "type": "string" }
   ]
 }
 ```
